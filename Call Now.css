@@ -1,0 +1,203 @@
+*{
+
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+    
+    }
+    
+    .navbar{
+    
+    background:black;
+    color: white;
+    
+    
+    }
+    
+    .navbar-brand{
+    
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    
+    
+    
+    
+    }
+    .navbar-brand:hover{
+    
+    color: white;
+    
+    
+    }
+    span{
+    
+    color: rgb(236, 83, 83);
+    cursor: pointer;
+    
+    
+    }
+    
+    .nav-item{
+    
+    padding-right: 50px;
+    
+    
+    }
+    
+    .nav-link{
+    
+    color: white;
+    text-transform: uppercase;
+    font-family: 'poppins',sans-serif;
+    
+    
+    }
+    
+    .nav-link:hover{
+    
+    color: rgb(236, 83, 83);
+    
+    
+    }
+    
+    .d-flex{
+        font-family: 'poppins',sans-serif;
+        color: rgb(236, 83, 83);
+    
+    
+    }
+    
+    /*==============================contact====================================*/
+
+    .contact{
+
+
+        background:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url(./contact\ bg.webp)no-repeat;
+        background-size: cover;
+        height: 800px;
+     
+    }
+
+    .contact h1{
+
+        font-size: 3rem;
+        font-weight: 300;
+        text-transform: uppercase;
+        font-family: 'poppins';
+        
+    }
+
+    /*================================Google map===============================================*/
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    /*======================================footer==============================================*/
+
+.footer{
+
+    background-color: rgb(23,8,44);
+    color: white;
+    
+    }
+    
+    .footer h4,h5{
+    
+    font-weight: 900;
+    
+    }
+    
+    .footer p{
+    margin: 0;
+    color: teal;
+    
+    
+    }
+    
+    .link{
+    
+    cursor: pointer;
+    transition: all 0,5s;
+    
+    }
+    
+    .link:hover{
+        color: rgb(236, 83, 83);
+        padding-left: 5px;
+        transition: all 0.5s;
+    
+    
+    
+    
+    
+    }
+    
+    .fa-solid{
+    font-size: 18px;
+    color: teal;
+    
+    
+    }
+    
+    .social{
+    
+    color: white;
+    font-size: 24px;
+    transition: all 0.4s;
+    
+    
+    
+    }
+    
+    .social:hover{
+    
+     color: red;
+     transition: all 0.4s;
+     cursor: pointer;
+    
+    
+    }
+    
+    .footer .card{
+    
+        background: black;
+        border-radius: 0;
+        
+    
+    
+    
+    
+    }
